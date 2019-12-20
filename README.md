@@ -2,7 +2,7 @@
 #### By Parker Fortin, Skyler Hammond, Aidan Kelly, & Kyle Mard
 
 |Name	|Role			|
-|---	|---			|
+|:---	|:---			|
 |Parker	|Backdrop & stars	|
 |Skyler	|Planets		|
 |Aidan	|Spaceship		|
